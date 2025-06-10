@@ -1,2 +1,2 @@
 # GNN
-dectet the attrack of ddos by GNN
+detect the attrack of ddos by GNN
